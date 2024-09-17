@@ -3,7 +3,7 @@
   "description": "Processo para apagar os RI's incompletos no Oracle",
   "main": "Main.xaml",
   "dependencies": {
-    "dhl-dtentry-oracle-library_Windows": "[1.1.5-alpha]",
+    "dhl-dtentry-oracle-library_Windows": "[1.2.13]",
     "UiPath.Credentials.Activities": "[2.0.0]",
     "UiPath.Excel.Activities": "[2.20.2]",
     "UiPath.Java.Activities": "[1.3.1]",
@@ -16,7 +16,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "19.10.2.0",
-  "projectVersion": "2.3.3",
+  "projectVersion": "2.3.5",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
